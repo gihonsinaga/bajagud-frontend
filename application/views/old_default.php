@@ -35,6 +35,7 @@ License: For each use you must have a valid license purchased only from above li
 		<!--begin::Global Stylesheets Bundle(used by all pages)-->
 		<link href="<?php echo base_url();?>assets/plugins/global/plugins.bundle.css" rel="stylesheet" type="text/css" />
 		<link href="<?php echo base_url();?>assets/css/style.bundle.css" rel="stylesheet" type="text/css" />
+		<link href="<?php echo base_url();?>assets/css/custom.css" rel="stylesheet" type="text/css" />
 		<link href="<?php echo base_url();?>assets/plugins/custom/datatables/datatables.bundle.css" rel="stylesheet" type="text/css">
 		<!-- <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/4.1.0/css/fixedColumns.dataTables.min.css" type="text/css"> -->
 		<!--end::Global Stylesheets Bundle-->
